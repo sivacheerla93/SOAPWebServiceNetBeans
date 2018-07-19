@@ -20,11 +20,11 @@
 * Server: GlassFish Server 4.1.1 coming with NetBeans
 
 #### Steps to create project:
-1. Open NetBeans -> Click on New Project -> Select Java Web -> Choose Web Application -> Click Next
+##### 1. Open NetBeans -> Click on New Project -> Select Java Web -> Choose Web Application -> Click Next
 ![](/screenshots/Service1.png)
-1. Give any project name and click next
+##### 2. Give any project name and click next
 ![](/screenshots/Service2.png)
-1. 
+##### 3.  
 ![](/screenshots/Service3.png)
 ![](/screenshots/Service4.png)
 ![](/screenshots/Service5.png)
