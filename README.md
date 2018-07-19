@@ -21,7 +21,7 @@
 
 #### Steps to create project:
 
-![Hello](/screenshots/Service1.png)
+![](/screenshots/Service1.png Hello)
 ![](/screenshots/Service2.png)
 ![](/screenshots/Service3.png)
 ![](/screenshots/Service4.png)
