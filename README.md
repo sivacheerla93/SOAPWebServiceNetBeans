@@ -24,9 +24,12 @@
 ![](/screenshots/Service1.png)
 ##### 2. Give any project name and click next
 ![](/screenshots/Service2.png)
-##### 3.  
+##### 3. Select GlassFish Server 4.1.1 and Click Finish
 ![](/screenshots/Service3.png)
+##### 4. Right click project -> Go to New -> Click Web Service
+Note: If you don't find Web Service in the list, Please follow step 5.. Otherwise go with step 6
 ![](/screenshots/Service4.png)
+
 ![](/screenshots/Service5.png)
 ![](/screenshots/Service6.png)
 ![](/screenshots/Service7.png)
