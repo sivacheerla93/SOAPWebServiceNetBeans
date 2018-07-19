@@ -3,6 +3,14 @@
 * SOAP is a W3C recommendation for communication between two applications.
 * SOAP is XML based protocol. It is platform independent and language independent. By using SOAP, you will be able to interact with other programming language applications.
 
+### Advantages of Soap Web Services
+* WS Security: SOAP defines its own security known as WS Security.
+* Language and Platform independent: SOAP web services can be written in any programming language and executed in any platform.
+
+### Disadvantages of Soap Web Services
+* Slow: SOAP uses XML format that must be parsed to be read. It defines many standards that must be followed while developing the SOAP applications. So it is slow and consumes more bandwidth and resource.
+* WSDL dependent: SOAP uses WSDL and doesn't have any other mechanism to discover the service.
+
 ![](/screenshots/Service1.png)
 ![](/screenshots/Service2.png)
 ![](/screenshots/Service3.png)
