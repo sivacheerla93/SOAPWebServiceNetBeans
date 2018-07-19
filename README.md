@@ -33,7 +33,7 @@
 ![](/screenshots/Service5.png)
 ##### 6. Web Services -> Web Service -> Click Next
 ![](/screenshots/Service6.png)
-##### 7. Give any Web Service Name as you like as well as package name also and check Implement Web Service as Stateless Session Bean -> Click Finish
+##### 7. Give any Web Service Name as you like as well as package name also and check Implement Web Service as            Stateless Session Bean -> Click Finish
 ![](/screenshots/Service7.png)
 ##### 8. Go to Project Explorer -> Source Packages -> Go to Package -> Open Web Service class
 ![](/screenshots/Service8.png)
