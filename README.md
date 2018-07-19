@@ -22,7 +22,9 @@
 #### Steps to create project:
 1. Open NetBeans -> Click on New Project -> Select Java Web -> Choose Web Application -> Click Next
 ![](/screenshots/Service1.png)
+1. Give any project name and click next
 ![](/screenshots/Service2.png)
+1. 
 ![](/screenshots/Service3.png)
 ![](/screenshots/Service4.png)
 ![](/screenshots/Service5.png)
