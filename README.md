@@ -1,9 +1,7 @@
 # SOAP Web Services
-SOAP stands for Simple Object Access Protocol. It is a XML-based protocol for accessing web services.
-
-SOAP is a W3C recommendation for communication between two applications.
-
-SOAP is XML based protocol. It is platform independent and language independent. By using SOAP, you will be able to interact with other programming language applications.
+* SOAP stands for Simple Object Access Protocol. It is a XML-based protocol for accessing web services.
+* SOAP is a W3C recommendation for communication between two applications.
+* SOAP is XML based protocol. It is platform independent and language independent. By using SOAP, you will be able to interact with other programming language applications.
 
 ![](/screenshots/Service1.png)
 ![](/screenshots/Service2.png)
